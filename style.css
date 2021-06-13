@@ -1,0 +1,144 @@
+body {
+    width: 800px;
+    height: 1000px;
+    margin: auto;
+}
+header {
+    margin-left: 50px;
+}
+
+ul li {
+    display: block;
+}
+header a {
+    color: black;
+}
+.nav {
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+}
+.menu {
+    display: flex;
+}
+.menu li a {
+    text-decoration: none;
+    font-size: 14px;
+    font-family: Roboto;
+}
+.menu li{
+    margin-right: 40px;
+}
+.page1 {
+    width:800px;
+    height: 850px;
+    background-image: url(img/Background.jpg);
+    background-position: top;
+    background-size: 800px 850px;
+    background-repeat: no-repeat;
+}
+.container {
+    width: 800px;
+    height: 100%;
+}
+.about h2 {
+    font-family: Roboto;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 40px;
+}
+.about {
+    width: 800px;
+    height: 500px;
+    margin-left: 50px;
+}
+#line_block {
+    float: left;
+    width: 250px;
+    height: 250px;
+}
+#purchase {
+    width: 250px;
+    height: 55px;
+    font-family: Roboto;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 37%;
+    padding: .7em 1.5em;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    padding-top: 40px;
+}
+#line_block p1 {
+    color: green;
+}
+#master {
+    width: 251px;
+    height: 389px;
+}
+#ocomp {
+
+}
+.ocompany {
+    float: left;
+    width: 400px;
+    height: 400px;
+    font-family: Roboto;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 40px;
+}
+.service {
+    width: 800px;
+    height: 500px;
+    margin-left: 50px;
+}
+.service h2 {
+    font-family: Roboto;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 40px;
+}
+#uslugi {
+    float: left;
+    width: 255px;
+    height: 250px;
+    margin-top: 50px;
+}
+#opisanie {
+    width: 800px;
+    height: 545px;
+    margin-top: 10px;
+    display: inline-block;
+}
+.gallery {
+    width: 800px;
+    height: 500px;
+    margin-left: 50px;
+}
+.gallery h2 {
+    font-family: Roboto;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 40px;
+}
+.contact {
+    width: 800px;
+    height: 500px;
+    margin-left: 50px;
+}
+.contact h2 {
+    font-family: Roboto;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 40px;
+}
+.footer {
+    width: 800px;
+    height: 200px;
+    margin-left: 50px;
+    background-color: grey;
+    margin-top: 50px;
+}
